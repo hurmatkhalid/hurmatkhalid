@@ -1,5 +1,5 @@
 <img src = "https://komarev.com/ghpvc/?username=hurmatkhalid&color=orange&style=flat-square" alt ="Profile Views">
-# Hurmat Khalid
+Hurmat Khalid
 
 **`Student Developer (Also a filmmaker and creator)`**
 
