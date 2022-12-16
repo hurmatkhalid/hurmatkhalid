@@ -5,10 +5,19 @@
 I'm a college sophomore doing my BTech in computer science and a diploma in Data Science. I am a front-end web developer. I like to build my projects from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left"> 
-      <a href="https://twitter.com/HurmatKhalid">
-         <img alt="Twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+  <a href="www.linkedin.com/in/hurmatkhalid">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="https://www.youtube.com/channel/UCO4LrmJq3Ix_riX8HVTds2Q">
+    <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+  <a href="https://www.instagram.com/hurmatkx/">
+    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/HurmatKhalid/">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
+  </a>
    </p>
 
 ---
