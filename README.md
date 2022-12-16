@@ -5,8 +5,8 @@
 I'm a college sophomore doing my BTech in computer science and a diploma in Data Science. I am a front-end web developer. I like to build my projects from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left"> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://twitter.com/HurmatKhalid">
+         <img alt="Twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/followers/HurmatKhalid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
