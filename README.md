@@ -6,8 +6,8 @@ I'm a college sophomore doing my BTech in computer science and a diploma in Data
 
    <p align="left"> 
 
-  <a href="www.linkedin.com/in/hurmatkhalid">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/hurmatkhalid/">
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="https://www.youtube.com/channel/UCO4LrmJq3Ix_riX8HVTds2Q">
     <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
